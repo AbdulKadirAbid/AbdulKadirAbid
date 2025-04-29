@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Abdul Kadir Abid 👋
 
-<!--
-**AbdulKadirAbid/AbdulKadirAbid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Brunel University London  
+💻 Passionate about technology, user-centred design, and real-world problem solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Programming: Java, JavaScript, HTML, CSS, SQL
+- Frameworks: Spring Boot, React
+- Databases: MySQL, H2
+- Tools: Git, GitHub, Maven, Eclipse
+
+---
+
+### 📈 Current Focus
+- Enhancing full-stack development skills
+- Building real-world applications
+- Preparing for exciting placement opportunities
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn Profile](https://www.linkedin.com/in/abdul-kadir-abid/)
+
+---
+
+*“Always learning, always growing.”* 🚀
