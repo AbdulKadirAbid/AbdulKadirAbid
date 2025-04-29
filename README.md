@@ -30,4 +30,4 @@
 
 ---
 
-⭐ _"Always learning, always growing."_ ⭐
+✨ _"Always learning, always growing."_ ✨
